@@ -2,7 +2,7 @@
 
 We aspire to create a culture where people work joyfully, communicate openly about things that matter, and provide great services for the American people and the world. We would like our team and our communities (including government and private sector colleagues) to reflect the diversity of America. We want to foster diversity of all kinds&mdash;not just the classes protected in law. Diversity fosters innovation. Diverse teams are creative teams. We need a diversity of perspective to create solutions for the real and urgent challenges we face.
 
-This is the 18F Code of Conduct. We follow all Equal Employment Opportunity laws, and our expectations are higher.  We expect everyone we work with to adhere to the [GSA Anti-harassment Policy](http://www.gsa.gov/portal/directive/d0/content/512516), even if they do not work for the General Services Administration. We expect everyone who works at 18F, attends 18F events and meetings, or participates in online forums or other virtual collaboration to follow this code of conduct and the laws and policies mentioned above. This applies to all of our methods of communication: office chatrooms, commit messages, email, and both formal and informal conversation.
+This is the DevProgress Code of Conduct. We expect everyone who works at DevProgress, attends DevProgress events and meetings, or participates in online forums or other virtual collaboration to follow this code of conduct. This applies to all of our methods of communication: chatrooms, hackthons, events, commit messages, email, and both formal and informal conversation.
 
 ### Be Empowering
 
@@ -16,7 +16,7 @@ If you are unsure if something is appropriate behavior, it probably isn’t. Eac
 
 Here are a few examples of unacceptable behavior:
 
-* Negative or offensive remarks based on the protected classes as listed in the [GSA Anti-harassment Policy](http://www.gsa.gov/portal/directive/d0/content/663070) of race, religion, color, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability (physical or mental), genetic information, sexual orientation, gender identity, parental status, marital status, and political affiliation **as well as** gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, or clothing.  **Consider that calling attention to differences can feel alienating.**
+* Negative or offensive remarks based on race, religion, color, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability (physical or mental), genetic information, sexual orientation, gender identity, parental status, marital status, and political affiliation **as well as** gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, or clothing.  **Consider that calling attention to differences can feel alienating.**
 
 * Touching people without their affirmative consent.
 
@@ -33,8 +33,9 @@ Here are a few examples of unacceptable behavior:
 
 ### Credits
 
-18F is greatly appreciative of the multiple sources that we drew from to build this Code of Conduct, including:
+DevProgress is greatly appreciative of the multiple sources that we drew from to build this Code of Conduct, including:
 
+* [18F Code of Conduct](http://github.com/18F/code-of-conduct/) official Code of Conduct of 18F (a digital delivery team within the General Services Administration).
 * [Bridge Foundry Code of Conduct](http://bridgefoundry.org/code-of-conduct/) used for RailsBridge, and other related workshops and open source projects
 * [Open Hatch Project Codes of Conduct](https://openhatch.org/wiki/Project_codes_of_conduct)
 * [Yes and Yes Yes Code of Conduct](http://yesandyesyes.com/code-of-conduct)
@@ -43,12 +44,11 @@ Here are a few examples of unacceptable behavior:
 * [Hacker School User's Manual: The Environment](https://www.hackerschool.com/manual#sec-environment)
 * [Geek Feminism Code of Conduct](http://geekfeminism.org/about/code-of-conduct/)
 * [Geek Feminism Wiki: Codes of Conduct Evaluations](http://geekfeminism.wikia.com/wiki/Code_of_conduct)
-* [Python Code of Conduct](https://www.python.org/psf/codeofconduct/)
-* [Code for America Code of Conduct](https://github.com/codeforamerica/codeofconduct)
+* [Python Code of Conduct](https://www.python.org/psf/codeofconduct/) * [Code for America Code of Conduct](https://github.com/codeforamerica/codeofconduct)
 
-Relevant legal considerations:
 
-* [GSA Anti-harassment Policy](http://www.gsa.gov/portal/directive/d0/content/663070)
+### Relevant legal considerations:
+
 * [Laws enforced by the Equal Employment Opportunity Commission](http://www.eeoc.gov/laws/statutes/index.cfm)
 * [Types of Discrimination prohibited by law](http://www.eeoc.gov/laws/types/)
 * [New and proposed regulations](http://www.eeoc.gov/laws/regulations/index.cfm)
