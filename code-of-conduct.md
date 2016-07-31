@@ -44,7 +44,8 @@ DevProgress is greatly appreciative of the multiple sources that we drew from to
 * [Hacker School User's Manual: The Environment](https://www.hackerschool.com/manual#sec-environment)
 * [Geek Feminism Code of Conduct](http://geekfeminism.org/about/code-of-conduct/)
 * [Geek Feminism Wiki: Codes of Conduct Evaluations](http://geekfeminism.wikia.com/wiki/Code_of_conduct)
-* [Python Code of Conduct](https://www.python.org/psf/codeofconduct/) * [Code for America Code of Conduct](https://github.com/codeforamerica/codeofconduct)
+* [Python Code of Conduct](https://www.python.org/psf/codeofconduct/) 
+* [Code for America Code of Conduct](https://github.com/codeforamerica/codeofconduct)
 
 
 ### Relevant legal considerations:
