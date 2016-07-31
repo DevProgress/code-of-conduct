@@ -58,6 +58,6 @@ DevProgress is greatly appreciative of the multiple sources that we drew from to
 
 If you or someone you know feels that DevProgress should be made aware of any violations of this code of conduct, there are a number of ways you can get in touch with the project. All reports will be taken seriously, and identities protected.
 
-* [mailto:coc@devprogress.us](Send an email to coc@devprogress.us)
-* [mailto:decause@devprogress.us](Send an email directly to the DevProgress Open Source Community Mananger.)
+* [Send an email to coc@devprogress.us](mailto:coc@devprogress.us)
+* [Send an email directly to the DevProgress Open Source Community Mananger.](mailto:decause@devprogress.us)
 * PM the Open Source Community Manager (Currently @decause) and ask for an invite to our private slack channel for incident response.
